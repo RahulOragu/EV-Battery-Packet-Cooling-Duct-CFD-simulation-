@@ -41,7 +41,7 @@ Thermal mapping highlights the temperature rise from inlet (blue) to outlet (yel
 •	Meshing: ANSYS Meshing (Patch Independent Algorithm).
 •	CFD Solver: ANSYS Fluent 2025 R2 (First Order Upwind for Stability).
 
-🚀 How to Run the Simulation
+🚀 How to Run the Simulation **( Download the RAR file in the main branch and extract to access Ansys files)**
 Prerequisites
 •	ANSYS Workbench 2024/2025
 •	Autodesk Fusion 360
